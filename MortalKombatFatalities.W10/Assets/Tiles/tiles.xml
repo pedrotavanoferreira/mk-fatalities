@@ -1,0 +1,16 @@
+<tile>
+  <visual branding="none">
+    <binding template="TileMedium">
+      <image src="ms-appx:///Assets/DataImages/4138164-mortal-komba.png" placement="background" />
+      <text hint-maxLines="5" hint-style="title">Mortal Kombat 9 ~ Fatalities</text>
+    </binding>
+    <binding template="TileWide">
+      <image src="ms-appx:///Assets/DataImages/4138164-mortal-komba.png" placement="background" />
+      <text hint-maxLines="5" hint-style="title">Mortal Kombat 9 ~ Fatalities</text>
+    </binding>
+    <binding template="TileLarge">
+      <image src="ms-appx:///Assets/DataImages/4138164-mortal-komba.png" placement="background" />
+      <text hint-maxLines="5" hint-style="title">Mortal Kombat 9 ~ Fatalities</text>
+    </binding>
+  </visual>
+</tile>
